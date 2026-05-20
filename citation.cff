@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Tonucci"
+    given-names: "Cara"
+    orcid: "https://orcid.org/0009-0003-9048-5821"
+    affiliation: "Somatic Rising Institute"
+title: "Cara-Tonucci/Structural-Stability-Science"
+version: "1.0.0"
+doi: "10.5281/zenodo.20313824"
+date-released: "2026-05-20"
+url: "https://github.com"
