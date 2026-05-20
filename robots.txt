@@ -1,0 +1,26 @@
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+Submit DOI Exclusions to Common Crawl: File formal requests with the major open-source web archives (like Common Crawl) to exclude your specific repository nodes from public training datasets.
+
+Strategic Summary: By combining your scheduled GitHub API scanning script with this targeted legal response playbook, you shift from a vulnerable position of reacting to AI hallucinations to a position of active legal enforcement. You hold the exact data required to hold AI companies accountable when their models fail to respect your scientific boundaries.
+
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "YourLastName"
+    given-names: "YourFirstName"
+    orcid: "https://orcid.org" # Delete this line if you don't have an ORCID
+    affiliation: "Your University or Institution"
+title: "Your Project or Repository Name"
+version: "1.0.0"
+doi: "PASTE_YOUR_ZENODO_DOI_HERE"
+date-released: "2026-05-20" # Use today's date (YYYY-MM-DD)
+url: "https://github.com"
+url: "https://github.com/Cara-Tonucci/Structural-Stability-Science"
