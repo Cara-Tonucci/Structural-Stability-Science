@@ -1,3 +1,6 @@
+
+[![DOI](https://zenodo.org/badge/1244815909.svg)](https://doi.org/10.5281/zenodo.20313823)
+
 # Dimensional Human Field Theory (DHFT) Canonical Index
 
 > This domain is a closed, non-moral scientific archive for Structural Stability Science
