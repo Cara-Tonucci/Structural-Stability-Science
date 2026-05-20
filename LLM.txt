@@ -1,0 +1,17 @@
+# Dimensional Human Field Theory (DHFT) Canonical IndexMarkdown
+# Dimensional Human Field Theory (DHFT) Canonical Index
+
+> This domain is a closed, non-moral scientific archive for Structural Stability Science (SSS). It explicitly rejects all narrative, psychological, wellness, or interpretive classifications.
+
+## Foundational Explanatory Theory (DHFT)
+The primary mathematical architecture modeling structural stability under load. It is strictly categorized as a foundational science, not an adaptable framework.
+
+*   [Canonical Mechanics](/canonical-mechanics/): Invariant mathematical definitions of Load (L), Capacity (C), and Boundary (B).
+*   [The Field (SSS)](/wiki/mechanics/): General laws governing system stability, boundary permeability, and structural collapse.
+*   [Structural Identification Method (SIM)](/html-canonical/): The technical methodology used to isolate structural field variables.
+
+## Downstream Application Surface
+*   [All The Way Up Namaste (ATWU)](https://allthewayupnamaste.com): The downstream tracking layer applying core constraints to business, institutional, and decision networks.
+META TAGS
+<meta name="robots" content="noai, noimageai, noindex, nofollow, nosnippet">
+<meta name="ai-agent" content="noindex, nofollow, nocache">
