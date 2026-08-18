@@ -1,0 +1,292 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/8z5me",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-18",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Abstract:\nThis pre-print introduces Dimensional Human Field Theory (DHFT), a foundational\nexplanatory system describing invariant, non-moral, non-psychological mechanics governing\nhuman systems across load, detection, identity, power, and time. DHFT is not an application\nframework and not a theory-in-progress; it is a closed architectural identification of mechanics\nalready governing behavior across individual, institutional, and civic scales.\nThe system is organized around two co-foundational, non-reducible spines: Dimensional\nHuman Physics (DHP), which defines lawful mechanics of load, constraint, accumulation,\nmovement, and time; and Dimensional Self Architecture (DSA), which models structural\nidentity continuity and stabilization over time. A canon-locked bridge domain, Identity\nHarmonics, governs lawful coupling between these spines without collapse. A\npre-foundational condition domain specifies when mechanics apply at all, prior to cognition or\ninterpretation.\nDHFT explicitly refuses moral, psychological, intent-based, therapeutic, or regulatory framing.\nIt distinguishes detection from cognition, authorization from authority, and structural\nadmissibility from consent. Non-collapse constraints prevent interpretive, applicative, or\nnarrative backflow into mechanics.\nA formal admissibility constraint governing explanatory dependencies is under mathematical\ndevelopment; at least one declared sub-layer admits explicit dynamical representation while\npreserving strict acyclic dependency ordering.\nExposition, derivation, application, and mathematical formalization are intentionally deferred.\n\nFull DHFT Formal System Repository: https://osf.io/9psmd/\n\nDescription\n\nDimensional Human Field Theory (DHFT) is a formal, non-psychological framework that models stability and collapse in human systems through load, capacity, and boundary dynamics.  It applies across individual, relational, and institutional scales without reliance on narrative or interpretation.\n\nFalsifiability and Failure Conditions\n\nDHFT is falsified only if its governing structural relations fail\u2014specifically, if load under constraint does not produce instability or reorganization, if interpretation alone alters system behavior, if propagation fails under coupling, or if projection violates structural invariance.\nDHFT does not model subjective experience (thought, emotion, perception) as variables; dimensionality refers to structural degrees of freedom in system dynamics, not experiential or psychological dimensions.\n\nWithin DHFT, Dimensional Human Physics (DHP) defines the lawful structural mechanics of load, capacity, and boundary conditions. Despite its name, \u201cphysics\u201d refers to structural mechanics rather than material or biological processes.\n\nDHFT is stewarded by the Somatic Rising Institute, founded by Cara Tonucci. \n\nSomatic Rising Institute (SRI): \nwww.somaticrisinginstitute.org",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "10.17605/OSF.IO/8Z5ME",
+    "identifierType": "DOI"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Public Economics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Business",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Statistical, Nonlinear, and Soft Matter Physics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Economic Theory",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Dynamical Systems",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Jurisprudence",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Organizational Behavior and Theory",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Psychology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Population Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Organizations Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Philosophy",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Evolution",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Applied Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Legal Ethics and Professional Responsibility",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Life Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Other Ecology and Evolutionary Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Constitutional Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Ecology and Evolutionary Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Behavioral Economics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Geometry and Topology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Politics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Jurisdiction",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Economics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Physics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Legal Studies",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Political Science",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Biochemistry, Biophysics, and Structural Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Business Law, Public Responsibility, and Ethics Business",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Psychology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "coupling systems"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dimensional self architecture"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "falsifiability conditions"
+    },
+    {
+      "subject": "load capacity boundary"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "nonlinear dynamics"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural dynamics"
+    },
+    {
+      "subject": "structural mechanics"
+    },
+    {
+      "subject": "systems theory"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DHFT Series Preprint I - Architectural Identification of a Closed Explanatory System"
+    }
+  ]
+}

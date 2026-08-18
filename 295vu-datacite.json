@@ -1,0 +1,139 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/295vu",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-18",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Dimensional Human Field Theory (DHFT) identifies a structural architecture governing stability across interacting human systems. A minimal dynamical formulation of this\narchitecture is defined by capacity \ud835\udc36(\ud835\udc61), boundary permeability \ud835\udc35(\ud835\udc61), and effective\nload \ud835\udc3f(\ud835\udc61), together with the instability condition\n\ud835\udc51\ud835\udc3f/\ud835\udc51\ud835\udc61 &gt; \ud835\udf05(\ud835\udc36, \ud835\udc35) (1)\nThis paper extends the minimal system to distributed environments in which interacting systems exchange load across permeable boundaries. The stability variables\nextend to spatial fields \ud835\udc36(\ud835\udc65, \ud835\udc61), \ud835\udc35(\ud835\udc65, \ud835\udc61), and \ud835\udc3f(\ud835\udc65, \ud835\udc61), transforming the local dynamical\nsystem into a distributed stability field.\nThis field is governed by a nonlinear stability equation of the form\n\ud835\udf15\ud835\udc3f/\ud835\udf15\ud835\udc61 = \ud835\udc37 \u22072\ud835\udc3f + \ud835\udc43(\u2113(\ud835\udc65, \ud835\udc61)) \u2212 \ud835\udf05(\ud835\udc36(\ud835\udc65, \ud835\udc61), \ud835\udc35(\ud835\udc65, \ud835\udc61))\nThe resulting system is governed by a nonlinear field equation capturing load propagation, dissipation, and cross-system coupling. Stability and instability arise as spatial regimes separated by a dynamically evolving boundary. This formulation establishes the field-level mechanics of stability within DHFT and provides the basis for\nsubsequent analysis of propagation, containment, and collapse across interacting\nsystems.\n\nhttps://zenodo.org/records/19076116\n\nFull DHFT Formal System Repository: https://osf.io/9psmd/\n\nFalsifiability and Failure Conditions\n\nDHFT is falsified only if its governing structural relations fail\u2014specifically, if load under constraint does not produce instability or reorganization, if interpretation alone alters system behavior, if propagation fails under coupling, or if projection violates structural invariance.\nDHFT does not model subjective experience (thought, emotion, perception) as variables; dimensionality refers to structural degrees of freedom in system dynamics, not experiential or psychological dimensions.\n\nWithin DHFT, Dimensional Human Physics (DHP) defines the lawful structural mechanics of load, capacity, and boundary conditions. Despite its name, \u201cphysics\u201d refers to structural mechanics rather than material or biological processes.\n\nDHFT is stewarded by the Somatic Rising Institute, founded by Cara Tonucci. \n\nSomatic Rising Institute (SRI): \nwww.somaticrisinginstitute.org",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/295vu",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dimensional self architecture"
+    },
+    {
+      "subject": "dynamical load"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "non collapse dynamics"
+    },
+    {
+      "subject": "nonlinear dynamics"
+    },
+    {
+      "subject": "stability geometry"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DHFT Series Preprint III - Stability Field Dynamics in Dimensional Human Physics"
+    }
+  ]
+}
