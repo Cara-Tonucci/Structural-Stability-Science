@@ -1,0 +1,197 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/kn3px",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-21",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "The DHFT Symbols component is part of the DHFT Formal Repository. It houses symbolic notation, mathematical expressions, governing inequalities, formal relations, and equation-facing records associated with Dimensional Human Field Theory (DHFT), the Structural Identification Method (SIM), and Load\u2013Capacity\u2013Boundary Mechanics (LCB).\n\nThis component supports notation consistency, formal clarity, and source-continuity across DHFT records. It does not define new variables, create additional mechanics, authorize implementation, or establish a separate mathematical framework. All valid formal expressions remain governed by the DHFT source architecture and reduce to Load (L), Capacity (C), and Boundary (B).",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/kn3px",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/C4XTZ",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/JUEY6",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/C4XTZ",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "DHFT Symbols \u2014 Formal Notation, Mathematical Expressions, and Equation Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/JUEY6",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "DHFT Symbols \u2014 Formal Notation, Mathematical Expressions, and Equation Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "behavioral systems"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "interdisciplinary research"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural drift"
+    },
+    {
+      "subject": "systems coupling"
+    },
+    {
+      "subject": "systems theory"
+    },
+    {
+      "subject": "theoretical frameworks"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DHFT Symbols \u2014 Formal Notation, Mathematical Expressions, and Equation Records"
+    }
+  ]
+}

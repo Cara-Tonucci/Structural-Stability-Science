@@ -1,0 +1,229 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/vpa3b",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-04-10",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-13",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "La Ciencia de la Estabilidad Estructural (SSS) es una ciencia fundamental que define las relaciones mec\u00e1nicas invariantes que gobiernan c\u00f3mo los sistemas mantienen la estabilidad o experimentan colapso bajo carga.\n\nSSS se fundamenta en la Teor\u00eda de Campo Humano Dimensional (DHFT) y en el M\u00e9todo de Identificaci\u00f3n Estructural, desarrollados como base formal para la identificaci\u00f3n de relaciones mec\u00e1nicas invariantes en sistemas.\n\nTeor\u00eda de Campo Humano Dimensional (DHFT)\nhttps://doi.org/10.5281/zenodo.19355510\n\nM\u00e9todo de Identificaci\u00f3n Estructural \n(SIM)\nhttps://doi.org/10.5281/zenodo.19337996\n\nSSS no es un campo interdisciplinario. No combina disciplinas existentes; en cambio, opera a un nivel m\u00e1s fundamental, identificando variables y relaciones que son agn\u00f3sticas al dominio y aplicables a sistemas humanos, institucionales y distribuidos.\n\nLa estructura formal de SSS se expresa a trav\u00e9s de la Teor\u00eda del Campo Humano Dimensional (DHFT), que define las variables centrales del sistema:\n\t\u2022\tCarga (L): las demandas o presiones aplicadas a un sistema\n\t\u2022\tCapacidad (C): la habilidad del sistema para absorber o procesar carga\n\t\u2022\tIntegridad de L\u00edmite (B): la estructura y permeabilidad de los l\u00edmites del sistema\n\nLa estabilidad de un sistema est\u00e1 determinada por la interacci\u00f3n de estas variables. La inestabilidad y el colapso ocurren cuando la carga excede la capacidad en relaci\u00f3n con las condiciones de sus l\u00edmites.\n\nSSS distingue entre variables mec\u00e1nicas y constructos interpretativos o psicol\u00f3gicos, permitiendo analizar el comportamiento del sistema de manera independiente de la percepci\u00f3n subjetiva.\n\nSSS no es un campo interdisciplinario; es una ciencia mec\u00e1nica fundamental cuyas variables son invariantes a trav\u00e9s de distintos dominios.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/vpa3b",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/8CEG3",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/Y6FB9",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/hkrf5",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/8CEG3",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Ciencia de la Estabilidad Estructural \u2014 Definici\u00f3n Can\u00f3nica (Espa\u00f1ol)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/Y6FB9",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Ciencia de la Estabilidad Estructural \u2014 Definici\u00f3n Can\u00f3nica (Espa\u00f1ol)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/hkrf5",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "SRI Stewardship &amp; Governance | Somatic Rising Institute"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "behavioral systems"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "complex systems"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "formal systems"
+    },
+    {
+      "subject": "interdisciplinary research"
+    },
+    {
+      "subject": "load capacity boundary"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "stability conditions"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural drift"
+    },
+    {
+      "subject": "structural mechanics"
+    },
+    {
+      "subject": "systems coupling"
+    },
+    {
+      "subject": "systems theory"
+    },
+    {
+      "subject": "theoretical frameworks"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SSS Ciencia de la Estabilidad Estructural \u2014 Definici\u00f3n Can\u00f3nica (Espa\u00f1ol)"
+    }
+  ]
+}

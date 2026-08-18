@@ -1,0 +1,478 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/cdm9g",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-05-19",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Algorithmic Audit &amp; System Governance Registry",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "10.17605/OSF.IO/CDM9G",
+    "identifierType": "DOI"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/CJQAW",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/GC4AK",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/295vu",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/85bxs",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/8Z5ME",
+      "relatedIdentifierType": "DOI",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/aeg4d",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/cs96q",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/gvk2j",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/hkrf5",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/J2ABF",
+      "relatedIdentifierType": "DOI",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/kn3px",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/mjsbf",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/qhf36",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/rg2v5",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/vpa3b",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/y5dxc",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/CJQAW",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Algorithmic Audit &amp; System Governance Registry"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/GC4AK",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Algorithmic Audit &amp; System Governance Registry"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/295vu",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHFT Series Preprint III - Stability Field Dynamics in Dimensional Human Physics"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/85bxs",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHFT Scope, Limits, and Conditions of Application"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/8Z5ME",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHFT Series Preprint I - Architectural Identification of a Closed Explanatory System"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/aeg4d",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "SSS Field Definition: Structural Stability Science (SSS)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/cs96q",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "SSS Forthcoming Work, Active Development, and Research Roadmap"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/gvk2j",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DSA Spine Technical Notes"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/hkrf5",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "SRI Stewardship &amp; Governance | Somatic Rising Institute"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/J2ABF",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHFT Technical Canonical Definitions"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/kn3px",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHFT Symbols \u2014 Formal Notation, Mathematical Expressions, and Equation Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/mjsbf",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHP Spine Technical Notes"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/qhf36",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "SIM Boundary Definition \u2014 Structural Identification Method (SIM)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/rg2v5",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHFT Falsifiability and Failure Conditions"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/vpa3b",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "SSS Ciencia de la Estabilidad Estructural \u2014 Definici\u00f3n Can\u00f3nica (Espa\u00f1ol)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/y5dxc",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "DHFT Series Preprint II - Minimal Stability Geometry of Dimensional Human Physics (DHP)"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Legal Remedies",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Dynamical Systems",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Applied Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Commercial Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Geometry and Topology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Physics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Privacy Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Cara Tonucci"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "Dimensional human field theory"
+    },
+    {
+      "subject": "Load Capacity Boundary"
+    },
+    {
+      "subject": "Nonlinear Dynamical Systems"
+    },
+    {
+      "subject": "SSS"
+    },
+    {
+      "subject": "Structural stability science"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SSS Algorithmic Audit &amp; System Governance Registry"
+    }
+  ]
+}

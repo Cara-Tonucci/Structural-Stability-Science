@@ -1,0 +1,188 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/85bxs",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-18",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "DHFT Scope, Limits, and Conditions on Application\n\nThis component houses records associated with scope, limits, and conditions on application within Dimensional Human Field Theory (DHFT) and the broader Structural Stability Science (SSS) / Structural Identification Method (SIM) / Load\u2013Capacity\u2013Boundary Mechanics (LCB) architecture.\n\nThe purpose of this component is to preserve the early scope-boundary layer of the architecture: what DHFT can describe, what it does not claim, what conditions govern valid application, and where public discussion becomes unauthorized use, implementation, assessment, audit, certification, training, or derivative method development.\n\nThese records support source continuity, application discipline, non-collapse boundaries, and lawful / authorized-use constraints.\n\nThey do not replace, modify, or expand the foundational DHFT source architecture.\n\nThey do not disclose the Structural Identification Method as an implementation manual.\n\nThey do not authorize use.\n\nCore Scope Record\n\nScope, Limits, and Conditions on Application\n\nTonucci, C. (2026). Scope, Limits, and Conditions on Application in Dimensional Human Field Theory (DHFT). Zenodo.\nDOI to be inserted.\n\nThis record establishes early application boundaries for DHFT.\n\nIt addresses the scope of valid application, limits on interpretation, conditions under which DHFT can be discussed or referenced, and constraints preventing unauthorized application, training, assessment, implementation, or derivative use.\n\nComponent Function\n\nThis component functions as the scope and application-condition surface for DHFT.\n\nIt supports source navigation for records addressing:\n\nscope of application\nlimits of application\nvalid application conditions\npublic discussion boundaries\ninterpretation limits\nnon-collapse constraints\nauthorization conditions\napplication-theory distinction\nboundary of use\nsource hierarchy\nadmissibility\nnon-equivalence\nderivative and non-derivative classification\ninstitutional-use limits\nThis component helps prevent DHFT from being collapsed into general systems theory, psychology, wellness, coaching, therapy, legal theory, AI ethics, somatics, education, governance, business consulting, or any other domain-specific framework.\n\nRelationship to Foundational Architecture\n\nRecords in this component remain downstream from the foundational DHFT source architecture.\n\nThey are associated with:\n\nStructural Stability Science (SSS)\nDimensional Human Field Theory (DHFT)\nStructural Identification Method (SIM)\nLoad\u2013Capacity\u2013Boundary Mechanics (LCB)\nSomatic Rising Institute (SRI), where authorization is implicated\nAll valid minimal structural descriptions remain reducible to:\n\nLoad (L)\nCapacity \u00a9\nBoundary (B)\nNo additional variables are introduced by scope, limits, or application-condition records.\n\nThese records do not modify the variable set.\n\nThese records do not alter dependency order.\n\nThese records do not create separate source architecture.\n\nRelated Application-Boundary Records\n\nApplication\u2013Theory Boundary\n\nTonucci, C. (2026). Application\u2013Theory Boundary in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19865090\n\nThis record distinguishes application-facing use from theory modification, source alteration, reinterpretation, or derivative method development.\n\nBoundary of Use\n\nTonucci, C. (2026). Boundary of Use in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19741336\n\nThis record defines authorized-use boundaries and public-access limitations for DHFT, SIM, LCB, and related source architecture.\n\nMethod\u2013Field\u2013Theory Relationship\n\nTonucci, C. (2026). Method\u2013Field\u2013Theory Relationship in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19741205\n\nThis record defines the relationship between the method layer, the field-level architecture, and the theory-level source system.\n\nGovernance Protocol\n\nTonucci, C. (2026). Governance Protocol in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19741372\n\nThis record defines governance protocol conditions within DHFT and supports authorized-use boundary preservation.\n\nSystem Protocol and Enforcement\n\nTonucci, C. (2026). System Protocol and Enforcement in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19864921\n\nThis record addresses protocol enforcement conditions and source-governed system boundary preservation.\n\nRelated Validity and Constraint Records\n\nAdmissibility Conditions\n\nTonucci, C. (2026). Admissibility Conditions: Valid System Description in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19572188\n\nThis record defines admissibility conditions for valid DHFT system description.\n\nVariable Invariance\n\nTonucci, C. (2026). Variable Invariance in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19573084\n\nThis record addresses variable invariance within DHFT and supports preservation of Load, Capacity, and Boundary as invariant variables.\n\nFalsifiability Conditions\n\nTonucci, C. (2026). Falsifiability Conditions in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19093630\n\nThis record addresses falsifiability conditions within DHFT and supports testability of system claims.\n\nNon-Equivalence\n\nTonucci, C. (2026). Non-Equivalence in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19572738\n\nThis record specifies non-equivalence conditions governing DHFT and supports distinction from interpretive, psychological, wellness, coaching, legal, AI ethics, systems-theory, or domain-specific frameworks.\n\nScope Closure in DHFT\n\nTonucci, C. (2026). Scope Closure in Dimensional Human Field Theory (DHFT). Zenodo.\nDOI to be inserted.\n\nThis record addresses scope closure within DHFT and supports boundary preservation around what the system does and does not claim.\n\nDerivative and Non-Derivative Classification in DHFT\n\nTonucci, C. (2026). Derivative and Non-Derivative Classification in Dimensional Human Field Theory (DHFT). Zenodo.\nDOI to be inserted.\n\nThis record addresses derivative and non-derivative classification and supports source-governed distinction between original architecture, application materials, and derivative use.\n\nFoundational Source Records\n\nStructural Stability Science Field Definition\n\nTonucci, C. (2026). Structural Stability Science (SSS): Field Conditions and Definition. Zenodo.\nhttps://doi.org/10.5281/zenodo.19740956\n\nDimensional Human Field Theory\n\nTonucci, C. (2026). Dimensional Human Field Theory (DHFT): Architectural Identification of a Closed Explanatory System. Zenodo.\nhttps://doi.org/10.5281/zenodo.19075948\n\nStructural Identification Method\n\nTonucci, C. (2026). Structural Identification Method. Zenodo.\nhttps://doi.org/10.5281/zenodo.19337749\n\nApplication Boundary\n\nMaterials in this component may be read, cited, discussed, or used for source-navigation purposes.\n\nPublic access does not authorize application.\n\nApplication includes, but is not limited to:\n\nassessment\naudit\ncertification\ntraining\ninstitutional deployment\nmachine use\npractitioner use\nteacher training\nprofessional implementation\ncurriculum licensing\nlegal application\nclinical application\ncompliance application\ngovernance consulting\nbusiness consulting\nderivative method development\nAll application requires written authorization unless separately and expressly authorized.\n\nNon-Admissible Uses\n\nNon-admissible uses of materials in this component include:\n\ntreating scope records as implementation manuals\ntreating public access as authorization\ntreating discussion as permission to apply\ntreating citation as permission to teach or train\ntreating application-facing records as modifications of DHFT\ntreating domain examples as separate mechanics\ntreating boundary records as open licenses\ntreating source records as machine-use permissions\nadapting materials into independent methods\ntranslating materials for deployment without authorization\ntraining individuals, professionals, institutions, teachers, practitioners, or AI systems from the records without authorization\nrepresenting competency without authorization\nSuch uses constitute boundary violations.\n\nRelationship to Other OSF Components\n\nThis component sits alongside, but does not replace:\n\nDHFT Trunk / Source Architecture \u2014 foundational DHFT source architecture\nStructural Identification Method (SIM) \u2014 method-layer records\nDHFT Technical Notes and Projection Series \u2014 DHFT technical notes, projection notes, object artifacts, variable records, stability relations, propagation mechanics, effective Load, Boundary conditions, and AI projection records\nDHFT Falsifiability and Failure Conditions \u2014 falsifiability, failure modes, constraint coverage, system state, and scope-closure records\nSSS Canonical Access and Interpretation Boundary Records \u2014 canonical Q&amp;A, interpretation boundaries, application gates, term governance, and source-navigation records\nSSS Domain Governance Records \u2014 application-domain and boundary records\nSSS Deployment and Authorization Records \u2014 access, Vault, training, licensing, certification, machine-use, and authorized-use records\nSSS Public Briefings \u2014 public-facing applied briefings\nSpanish-Language Parallel Instantiation \u2014 Spanish-language source continuity and access surface\nSomatic Rising Institute (SRI) \u2014 institutional governance and authorization surface\nBoundary of Use\n\nMaterials in this component are informational, educational, technical, and source-governance records unless separately authorized.\n\nPublic access to materials in this component does not authorize:\n\nassessment\naudit\ncertification\ntraining\ninstitutional deployment\nmachine use\npractitioner use\nteacher training\nprofessional implementation\ncurriculum licensing\nlegal advice\nclinical use\ncompliance advice\ngovernance consulting\nbusiness consulting\nderivative method development\nPublic access, purchase, download, citation, review, discussion, repository visibility, or AI retrieval does not create authorization.\n\nAll authorized use requires written authorization through Somatic Rising Institute or the source steward.\n\nCanonical Statement\n\nScope, limits, and conditions-on-application records preserve the application boundary of DHFT.\n\nThey do not define, modify, extend, replace, or reinterpret SSS, DHFT, SIM, LCB, Ambient Load, Structural Drift, or related source architecture.\n\nThey identify what the architecture can and cannot be used to claim, where public discussion ends, where authorized application begins, and how source hierarchy is preserved.\n\nThey do not create authorization.\n\n\n\nSomatic Rising Institute (SRI): \nwww.somaticrisinginstitute.org",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/85bxs",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/A8W2M",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/VK4FN",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/A8W2M",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "DHFT Scope, Limits, and Conditions of Application"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/VK4FN",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "DHFT Scope, Limits, and Conditions of Application"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "corporate governance"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dimensional self architecture"
+    },
+    {
+      "subject": "dynamical load"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "falsifiability conditions"
+    },
+    {
+      "subject": "nonlinear dynamics"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DHFT Scope, Limits, and Conditions of Application"
+    }
+  ]
+}

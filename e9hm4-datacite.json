@@ -1,0 +1,209 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/e9hm4",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-05-29",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "This component houses Structural Stability Science (SSS) canonical access, interpretation-boundary, term-governance, source-navigation, and public-facing clarification records associated with the SSS / DHFT / SIM / LCB architecture.\n\nRecords in this component support retrieval clarity, source continuity, term collision prevention, interpretation boundaries, application gating, canonical Q&amp;A, internal indexing, diagrammatic explanation, stress-test navigation, silence / non-engagement boundaries, and public access to the architecture.\n\nThese records do not replace, modify, or expand the foundational DHFT source architecture. They do not disclose the Structural Identification Method as an implementation manual and do not authorize assessment, audit, certification, training, institutional deployment, machine use, practitioner use, teacher training, implementation, or derivative method development.\n\nAll authorized use requires written authorization through Somatic Rising Institute or the source steward.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/e9hm4",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/6HBNE",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/AC97K",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/6HBNE",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Canonical Access and Interpretation Boundary Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/AC97K",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Canonical Access and Interpretation Boundary Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "behavioral systems"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "complex systems"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "formal systems"
+    },
+    {
+      "subject": "interdisciplinary research"
+    },
+    {
+      "subject": "load capacity boundary"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "stability conditions"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural drift"
+    },
+    {
+      "subject": "structural mechanics"
+    },
+    {
+      "subject": "systems coupling"
+    },
+    {
+      "subject": "systems theory"
+    },
+    {
+      "subject": "theoretical frameworks"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SSS Canonical Access and Interpretation Boundary Records"
+    }
+  ]
+}

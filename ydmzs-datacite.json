@@ -1,0 +1,793 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/ydmzs",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-18",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository\n\nThis repository houses the formal source architecture for Dimensional Human Field Theory (DHFT), a closed explanatory system within Structural Stability Science (SSS).\n\nDHFT is specified through Load (L), Capacity (C), and Boundary (B), together with the Structural Identification Method (SIM), Load\u2013Capacity\u2013Boundary Mechanics (LCB), admissibility conditions, falsifiability conditions, system constraints, technical notes, projection notes, domain governance records, public briefings, deployment records, and authorized-use boundaries.\n\nThis repository functions as the primary source-navigation surface for DHFT and associated SSS / SIM / LCB records. It preserves source hierarchy, dependency order, variable identity, structural relations, and authorized-use constraints.\n\nPublic access to this repository does not authorize assessment, audit, certification, training, institutional deployment, machine use, practitioner use, teacher training, professional implementation, curriculum licensing, or derivative method development. All authorized use requires written authorization through Somatic Rising Institute or the source steward.\n\nFoundational Source Records\n\nTonucci, Cara, Dimensional Human Field Theory (DHFT) Architectural Identification of a Closed Explanatory System (February 17, 2026). Available at SSRN: https://ssrn.com/abstract=6259999 or http://dx.doi.org/10.2139/ssrn.6259999\n\nTonucci, Cara, Minimal Stability Geometry of Dimensional Human Physics (March 16, 2026). Available at SSRN: https://ssrn.com/abstract=6428361 or http://dx.doi.org/10.2139/ssrn.6428361\n\nTonucci, Cara, Stability Field Dynamics in Dimensional Human Physics Mathematical Mechanics within Dimensional Human Field Theory (March 17, 2026). Available at SSRN: https://ssrn.com/abstract=6433738 or http://dx.doi.org/10.2139/ssrn.6433738\n\nStewardship &amp; Governance\n\nSomatic Rising Institute (SRI)\nWebsite: somaticrisinginstitute.org\n\nCara Tonucci ORCID: https://orcid.org/\n0009-0003-9048-5821",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "10.17605/OSF.IO/YDMZS",
+    "identifierType": "DOI"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://osf.io/25xmt",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/295vu",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/3nf5q",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/85bxs",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/8Z5ME",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/aeg4d",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/CDM9G",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/cs96q",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/e9hm4",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/gvk2j",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/hkrf5",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/J2ABF",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/kn3px",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/mjsbf",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/rg2v5",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/tgbhv",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/vpa3b",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/y5dxc",
+      "relatedIdentifierType": "URL",
+      "relationType": "HasPart"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/C347S",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/CB8FA",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "https://osf.io/sknyj",
+      "relatedIdentifierType": "URL",
+      "relationType": "IsSupplementTo"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/25xmt",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Domain Governance Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/295vu",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHFT Series Preprint III - Stability Field Dynamics in Dimensional Human Physics"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/3nf5q",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Public Briefings"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/85bxs",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHFT Scope, Limits, and Conditions of Application"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/8Z5ME",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHFT Series Preprint I - Architectural Identification of a Closed Explanatory System"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/aeg4d",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Field Definition: Structural Stability Science (SSS)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/CDM9G",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Algorithmic Audit &amp; System Governance Registry"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/cs96q",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Forthcoming Work, Active Development, and Research Roadmap"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/e9hm4",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Canonical Access and Interpretation Boundary Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/gvk2j",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DSA Spine Technical Notes"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/hkrf5",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SRI Stewardship &amp; Governance | Somatic Rising Institute"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/J2ABF",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHFT Technical Canonical Definitions"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/kn3px",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHFT Symbols \u2014 Formal Notation, Mathematical Expressions, and Equation Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/mjsbf",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHP Spine Technical Notes"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/rg2v5",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHFT Falsifiability and Failure Conditions"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/tgbhv",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Deployment and Authorization Records"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/vpa3b",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "SSS Ciencia de la Estabilidad Estructural \u2014 Definici\u00f3n Can\u00f3nica (Espa\u00f1ol)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/y5dxc",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasPart",
+      "titles": [
+        {
+          "title": "DHFT Series Preprint II - Minimal Stability Geometry of Dimensional Human Physics (DHP)"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/C347S",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "StudyRegistration",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/CB8FA",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "StudyRegistration",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "MediArXiv",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/sknyj",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Preprint",
+      "relationType": "IsSupplementTo",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT): Architectural Identification of a Closed Explanatory System"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "Project",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Business",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Management Sciences and Quantitative Methods",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Behavioral Neurobiology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Algebraic Geometry",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Structural Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Mechanical Engineering",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Dynamical Systems",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Computational Neuroscience",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Jurisprudence",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Organizational Behavior and Theory",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Psychology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Organizations Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Philosophy",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Medicine and Health",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Applied Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Architecture",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Economics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Society",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Legal Ethics and Professional Responsibility",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Politics and Social Change",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Biophysics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Life Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Constitutional Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Ecology and Evolutionary Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Human Ecology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Forest Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Geometry and Topology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law and Politics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Jurisdiction",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Economics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Environmental Studies",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Computer Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Physics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Legal Studies",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Systems Architecture",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Neuroscience and Neurobiology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Political Science",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Biochemistry, Biophysics, and Structural Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Applied Mechanics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Risk Analysis",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Systems Neuroscience",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Psychology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Sociology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Architectural Engineering",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Forest Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Computational Biology",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Civic and Community Engagement",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Business Organizations Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Engineering",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Public Law and Legal Theory",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social Control, Law, Crime, and Deviance",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Genetics and Genomics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "behavioral systems"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "complex systems"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "formal systems"
+    },
+    {
+      "subject": "interdisciplinary research"
+    },
+    {
+      "subject": "load capacity boundary"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "stability conditions"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural drift"
+    },
+    {
+      "subject": "structural mechanics"
+    },
+    {
+      "subject": "systems coupling"
+    },
+    {
+      "subject": "systems theory"
+    },
+    {
+      "subject": "theoretical frameworks"
+    }
+  ],
+  "titles": [
+    {
+      "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+    }
+  ]
+}

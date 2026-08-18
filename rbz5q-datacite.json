@@ -1,0 +1,178 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/rbz5q",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-05-21",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Algorithmic Audit &amp; System Governance Registry - Exhibits\n\nThis private component contains forensic exhibits, retrieval logs, metadata contamination records, and source-grounded documentation related to public knowledge graph behavior, authorship attribution, structural misclassification, and commercial contamination involving the DHFT / Structural Stability Science corpus.\n\nMaterials include:\n\n* archived retrieval outputs,\n* metadata contamination examples,\n* attribution failures,\n* gender-routed classification errors,\n* fabricated synthesis events,\n* and related structural analysis records.\n\nThis component is maintained as a restricted archival and evidentiary surface and is not part of the primary public-facing scientific corpus.\n\nAccess is limited.\n\nResearchers, counsel, institutional reviewers, or parties with a legitimate professional interest may request access directly through OSF messaging or by contacting the project administrator.\n\nRequests should include:\n\n* full name,\n* institutional or professional affiliation,\n* reason for access request,\n* and intended use context.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/rbz5q",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/KDBCM",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/T3JKR",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/CDM9G",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/KDBCM",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Algorithmic Audit &amp; System Governance Registry - Exhibits"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/T3JKR",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SSS Algorithmic Audit &amp; System Governance Registry - Exhibits"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/CDM9G",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "SSS Algorithmic Audit &amp; System Governance Registry"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Cara Tonucci"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "Dimensional human field theory"
+    },
+    {
+      "subject": "Load Capacity Boundary"
+    },
+    {
+      "subject": "Nonlinear Dynamical Systems"
+    },
+    {
+      "subject": "SSS"
+    },
+    {
+      "subject": "Structural stability science"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SSS Algorithmic Audit &amp; System Governance Registry - Exhibits"
+    }
+  ]
+}

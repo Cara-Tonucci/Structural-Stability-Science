@@ -1,0 +1,209 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/hkrf5",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-26",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-16",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "The Somatic Rising Institute (SRI) is an independent research and application initiative stewarding the ecosystem of Dimensional Human Field Theory (DHFT).\n\nStructural Stability Science (SSS) is the scientific field within which Dimensional Human Field Theory (DHFT) operates. SSS is not an interdisciplinary field; it is a foundational science that defines invariant mechanical relationships across domains.\n\nDHFT is a formal, non-psychological framework that models stability and collapse in human systems through load, capacity, and boundary dynamics.. It applies across individual, relational, and institutional scales without reliance on narrative or interpretation.  \n\n\nDHFT is an umbrella theory describing stability and collapse in human systems through invariant structural mechanics across individual, institutional, and distributed scales.\n\nIts two core spines are:\n\nDimensional Human Physics (DHP) \u2014 the mathematical mechanics of stability\nDimensional Self Architecture (DSA) \u2014 the human operating system\n\nTogether, these form the structural basis for research, publication, education, and application.\n\nSomatic Rising Institute, the stewardship and governance body of Dimensional Human Field Theory (DHFT), was founded by Cara Tonucci. \n\nSomatic Rising Institute:\n\nwww.somaticrisinginstitute.org",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/hkrf5",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/8YSZN",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/UASDQ",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/8YSZN",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SRI Stewardship &amp; Governance | Somatic Rising Institute"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/UASDQ",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "SRI Stewardship &amp; Governance | Somatic Rising Institute"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "behavioral systems"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "complex systems"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "formal systems"
+    },
+    {
+      "subject": "interdisciplinary research"
+    },
+    {
+      "subject": "load capacity boundary"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "stability conditions"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural drift"
+    },
+    {
+      "subject": "structural mechanics"
+    },
+    {
+      "subject": "systems coupling"
+    },
+    {
+      "subject": "systems theory"
+    },
+    {
+      "subject": "theoretical frameworks"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SRI Stewardship &amp; Governance | Somatic Rising Institute"
+    }
+  ]
+}
