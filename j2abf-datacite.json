@@ -1,0 +1,197 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/j2abf",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-21",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-13",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "DHFT Technical Canonical Definitions\n\nThis component houses technical canonical definition records associated with Dimensional Human Field Theory (DHFT), Structural Stability Science (SSS), the Structural Identification Method (SIM), and Load\u2013Capacity\u2013Boundary Mechanics (LCB).\n\nThe purpose of this component is to preserve the definitional layer of DHFT: the canonical terms, invariant variables, structural relations, admissibility constraints, and source-governed definitions required for valid system description.\n\nThese records define or support the technical meaning of terms within DHFT.\n\nThey are not informal explanations.\n\nThey are not metaphorical glossaries.\n\nThey are not application guides.\n\nThey are not implementation manuals.\n\nThey do not authorize assessment, audit, certification, training, institutional deployment, machine use, practitioner use, teacher training, professional implementation, curriculum licensing, or derivative method development.\n\nAll authorized use requires written authorization through Somatic Rising Institute or the source steward.\n\nComponent Function\n\nThis component functions as the canonical technical-definition surface for DHFT.\n\nIt supports source navigation for records addressing:\n\ncanonical definitions\ninvariant variables\nLoad\nCapacity\nBoundary\nsystem state\nstructural relation\nadmissibility\nfalsifiability\nnon-equivalence\nsource hierarchy\napplication limits\nuse boundaries\ntechnical terminology\ncanonical terminology preservation\nThe records in this component help prevent drift, category collapse, interpretive substitution, and unauthorized redefinition of DHFT terms.\n\nFoundational Source Record\n\nDimensional Human Field Theory\n\nTonucci, C. (2026). Dimensional Human Field Theory (DHFT): Architectural Identification of a Closed Explanatory System. Zenodo.\nhttps://doi.org/10.5281/zenodo.19075948\n\nThis is the foundational DHFT source record.\n\nAll valid minimal structural descriptions remain reducible to:\n\nLoad (L)\nCapacity \u00a9\nBoundary (B)\nNo additional variables are introduced at the minimal layer.\n\nCore Object and Variable Records\n\nLoad Object\n\nTonucci, C. (2026). Load (L) Object Artifact in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19742162\n\nThis record specifies the Load object within DHFT.\n\nCapacity Object\n\nTonucci, C. (2026). Capacity \u00a9 Object Artifact in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19742196\n\nThis record specifies the Capacity object within DHFT.\n\nBoundary Object\n\nTonucci, C. (2026). Boundary (B) Object Artifact in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19742266\n\nThis record specifies the Boundary object within DHFT.\n\nVariable Invariance\n\nTonucci, C. (2026). Variable Invariance in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19573084\n\nThis record specifies variable invariance within DHFT and supports preservation of Load, Capacity, and Boundary as invariant variables.\n\nLoad Non-Decomposition\n\nTonucci, C. (2026). Load Non-Decomposition: Invariance of Load in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19596239\n\nThis record defines the non-decomposition condition governing Load. Load is a single invariant variable and is not subdivided into types, categories, or domains at the minimal system layer.\n\nBoundary and Load Relation Records\n\nBoundary Conditions\n\nTonucci, C. (2026). Boundary Conditions: Structural Properties of Boundary in DHFT. Zenodo.\nhttps://doi.org/10.5281/zenodo.19572260\n\nThis record defines structural properties of Boundary within DHFT.\n\nEffective Load\n\nTonucci, C. (2026). Effective Load: Distinction Between External and Internal Load in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19595906\n\nThis record defines the distinction between external Load and effective Load.\n\nPropagation Mechanics\n\nTonucci, C. (2026). Propagation Mechanics: Transfer of Load Across Systems in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19596416\n\nThis record defines propagation as the transfer of Load across systems under boundary conditions permitting transfer and capacity conditions insufficient to absorb transferred Load.\n\nPropagation Conditions in Interacting Systems\n\nTonucci, C. (2026). Propagation Conditions in Interacting Systems. Zenodo.\nhttps://doi.org/10.5281/zenodo.19830538\n\nThis record addresses propagation conditions in interacting systems.\n\nAmbient Load\n\nTonucci, C. (2026). Ambient Load in Dimensional Human Field Theory (DHFT): Definition, Boundary Coupling, and Capacity Relation. Zenodo.\nhttps://doi.org/10.5281/zenodo.20415841\n\nThis record defines Ambient Load as an application-facing structural condition within DHFT. Ambient Load does not introduce an additional minimal variable.\n\nConstraint and Validity Records\n\nAdmissibility Conditions\n\nTonucci, C. (2026). Admissibility Conditions: Valid System Description in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19572188\n\nThis record defines admissibility conditions for valid DHFT system description.\n\nFalsifiability Conditions\n\nTonucci, C. (2026). Falsifiability Conditions in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19093630\n\nThis record defines falsifiability conditions within DHFT.\n\nGoverning Inequality of System Stability\n\nTonucci, C. (2026). Governing Inequality of System Stability in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19742027\n\nThis record addresses the governing stability relation within DHFT.\n\nNon-Equivalence\n\nTonucci, C. (2026). Non-Equivalence in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19572738\n\nThis record specifies non-equivalence conditions governing DHFT.\n\nScope and Use Boundary Records\n\nScope, Limits, and Conditions on Application\n\nTonucci, C. (2026). Scope, Limits, and Conditions on Application in Dimensional Human Field Theory (DHFT). Zenodo.\nDOI to be inserted.\n\nThis record establishes early application boundaries for DHFT.\n\nApplication\u2013Theory Boundary\n\nTonucci, C. (2026). Application\u2013Theory Boundary in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19865090\n\nThis record distinguishes application-facing use from theory modification, source alteration, reinterpretation, or derivative method development.\n\nBoundary of Use\n\nTonucci, C. (2026). Boundary of Use in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19741336\n\nThis record defines authorized-use boundaries and public-access limitations for DHFT and related source architecture.\n\nMethod and Field Relationship\n\nStructural Stability Science Field Definition\n\nTonucci, C. (2026). Structural Stability Science (SSS): Field Conditions and Definition. Zenodo.\nhttps://doi.org/10.5281/zenodo.19740956\n\nThis record defines Structural Stability Science as the field-level architecture associated with DHFT.\n\nStructural Identification Method\n\nTonucci, C. (2026). Structural Identification Method. Zenodo.\nhttps://doi.org/10.5281/zenodo.19337749\n\nThis record defines the Structural Identification Method as the method layer associated with DHFT and SSS.\n\nMethod\u2013Field\u2013Theory Relationship\n\nTonucci, C. (2026). Method\u2013Field\u2013Theory Relationship in Dimensional Human Field Theory (DHFT). Zenodo.\nhttps://doi.org/10.5281/zenodo.19741205\n\nThis record defines the relationship between Structural Stability Science, Dimensional Human Field Theory, and the Structural Identification Method.\n\nTechnical Definition Boundary\n\nTechnical canonical definitions are source-governed.\n\nThey must preserve:\n\nauthorship\ntitle\nDOI or source link\nsource hierarchy\nvariable identity\nstructural relation\ndependency order\nadmissibility constraints\nauthorized-use boundaries\nTechnical definitions may not be redefined, substituted, collapsed into external frameworks, or treated as interchangeable with similar terms in psychology, wellness, coaching, systems theory, somatics, legal theory, AI ethics, education, governance, business, or other domains.\n\nSurface similarity does not establish equivalence.\n\nNon-Admissible Uses\n\nNon-admissible uses of technical canonical definition records include:\n\ntreating definitions as informal glossary terms\ntreating definitions as metaphors\nsubstituting external-framework meanings\ndecomposing Load into categories at the minimal layer\ntreating Capacity as resilience, tolerance, or personal strength\ntreating Boundary as preference, interpersonal limit, or metaphor\ntreating application-facing terms as additional minimal variables\ntreating public access as authorization\ntreating citation as permission to teach or train\nusing definitions for assessment, audit, certification, implementation, or derivative method development without authorization\nSuch uses constitute boundary violations.\n\nRelationship to Other OSF Components\n\nThis component sits alongside, but does not replace:\n\nDHFT Trunk / Source Architecture\nStructural Identification Method (SIM)\nDHFT Technical Notes and Projection Series\nDHFT Falsifiability and Failure Conditions\nDHFT Scope, Limits, and Conditions on Application\nSSS Canonical Access and Interpretation Boundary Records\nSSS Domain Governance Records\nSSS Deployment and Authorization Records\nSSS Public Briefings\nSpanish-Language Parallel Instantiation\nSomatic Rising Institute (SRI)\nBoundary of Use\n\nMaterials in this component are informational, educational, technical, and source-governance records unless separately authorized.\n\nPublic access to materials in this component does not authorize:\n\nassessment\naudit\ncertification\ntraining\ninstitutional deployment\nmachine use\npractitioner use\nteacher training\nprofessional implementation\ncurriculum licensing\nlegal advice\nclinical use\ncompliance advice\ngovernance consulting\nbusiness consulting\nderivative method development\nPublic access, download, citation, review, discussion, repository visibility, or AI retrieval does not create authorization.\n\nAll authorized use requires written authorization through Somatic Rising Institute or the source steward.\n\nCanonical Statement\n\nDHFT technical canonical definitions preserve the definitional integrity of the source architecture.\n\nThey do not define, modify, extend, replace, or reinterpret DHFT outside the source-governed architecture.\n\nThey support valid system description, variable preservation, non-equivalence, admissibility, and boundary integrity.\n\nThey do not create authorization.\n\nSomatic Rising Institute (SRI): \nwww.somaticrisinginstitute.org",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "10.17605/OSF.IO/J2ABF",
+    "identifierType": "DOI"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/9JA5X",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/ZWP6Q",
+      "relatedIdentifierType": "DOI",
+      "relationType": "HasVersion"
+    },
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/9JA5X",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "DHFT Technical Canonical Definitions"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF Registries",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/ZWP6Q",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "HasVersion",
+      "titles": [
+        {
+          "title": "DHFT Technical Canonical Definitions"
+        }
+      ]
+    },
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "behavioral systems"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "falsifiability conditions"
+    },
+    {
+      "subject": "interdisciplinary research"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural drift"
+    },
+    {
+      "subject": "systems coupling"
+    },
+    {
+      "subject": "systems theory"
+    },
+    {
+      "subject": "theoretical frameworks"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DHFT Technical Canonical Definitions"
+    }
+  ]
+}

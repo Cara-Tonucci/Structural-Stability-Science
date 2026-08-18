@@ -1,0 +1,160 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/rg2v5",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-18",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-13",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "This note defines the falsifiability conditions governing Dimensional Human Field Theory\n(DHFT). The system is falsified only if its governing structural relations fail. Variation in\nexpression, intensity, or empirical manifestation does not invalidate the system unless the\nunderlying constraints of load, capacity, boundary permeability, projection, and coupling\nare violated.\n\nhttps://zenodo.org/records/19093631\n\nFull DHFT Formal System Repository: https://osf.io/9psmd/\n\nFalsifiability and Failure Conditions\n\nAt minimum, Dimensional Human Field Theory (DHFT) is falsified if sustained increases in load under bounded capacity and non-zero boundary permeability do not produce instability, reorganization, or propagation. The system is further invalidated if dynamics reorganize solely due to interpretation, independent of structural conditions.\n\nAdditional falsification conditions include failure of propagation under permitted coupling, and failure of projection invariance\u2014where structurally equivalent inputs produce non-equivalent outcomes across domains. Projection must preserve magnitude, direction, temporal accumulation, and structural interaction.\n\nVariation in expression, intensity, or empirical form does not falsify the system. Only violations of invariant structural relations invalidate DHFT.\n\nDHFT is stewarded by the Somatic Rising Institute, founded by Cara Tonucci. \n\nSomatic Rising Institute (SRI): \nwww.somaticrisinginstitute.org",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/rg2v5",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dimensional self architecture"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "falsifiability"
+    },
+    {
+      "subject": "falsifiability conditions"
+    },
+    {
+      "subject": "load capacity boundary"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "nonlinear dynamics"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural mechanics"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DHFT Falsifiability and Failure Conditions"
+    }
+  ]
+}

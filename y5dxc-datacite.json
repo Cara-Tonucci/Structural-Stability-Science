@@ -1,0 +1,136 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/y5dxc",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-18",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-03-25",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Dimensional Human Field Theory (DHFT) identifies a closed explanatory architecture. The Dimensional Human Physics (DHP) spine specifies lawful\nmechanics of load, constraint, accumulation, movement, and time. The present\npaper provides the first minimal nonlinear dynamical formalization consistent with that spine. A three-variable structural system is specified comprising\ncapacity C(t), boundary permeability B(t), and effective load L(t). Instability is governed by a stability margin \u03ba(C,B) determined by the interaction of structural\ncapacity and boundary integrity. Load accumulation occurs when input exceeds the system\u2019s dissipation capacity. As structural parameters drift through capacity erosion, boundary degradation, or sustained load accumulation, the equilibrium manifold may undergo a foldn(saddle-node) bifurcation. Near criticality the system reduces locally to the\ncanonical saddle-node normal form. The resulting system exhibits fold bifurcation structure and hysteresis as a geometric consequence. The framework remains substrate-agnostic: heterogeneous stressors may project into the load\nvariable without altering structural invariants. The result is a minimal stability geometry capable of modeling threshold transitions across multiple empirical domains while preserving the architectural closure of DHFT.\n\nhttps://zenodo.org/records/19076075\n\nFull DHFT Formal System Repository: https://osf.io/9psmd/\n\nFalsifiability and Failure Conditions\n\nDHFT is falsified only if its governing structural relations fail\u2014specifically, if load under constraint does not produce instability or reorganization, if interpretation alone alters system behavior, if propagation fails under coupling, or if projection violates structural invariance.\nDHFT does not model subjective experience (thought, emotion, perception) as variables; dimensionality refers to structural degrees of freedom in system dynamics, not experiential or psychological dimensions.\n\nWithin DHFT, Dimensional Human Physics (DHP) defines the lawful structural mechanics of load, capacity, and boundary conditions. Despite its name, \u201cphysics\u201d refers to structural mechanics rather than material or biological processes.\n\nDHFT is stewarded by the Somatic Rising Institute, founded by Cara Tonucci. \n\nSomatic Rising Institute (SRI): \nwww.somaticrisinginstitute.org",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/y5dxc",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "constitutional theory"
+    },
+    {
+      "subject": "corporate governance"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dimensional self architecture"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "stability geometry"
+    }
+  ],
+  "titles": [
+    {
+      "title": "DHFT Series Preprint II - Minimal Stability Geometry of Dimensional Human Physics (DHP)"
+    }
+  ]
+}
