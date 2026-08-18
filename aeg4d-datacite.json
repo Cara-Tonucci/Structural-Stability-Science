@@ -1,0 +1,169 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/aeg4d",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-04-02",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-06-08",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Structural Stability Science (SSS) is the field that studies invariant structural conditions governing stability and collapse across complex systems. SSS is not interdisciplinary\u2014it operates as a foundational mechanical science across domains.\n\nDimensional Human Field Theory (DHFT) is a foundational theory within this field.\n\nStructural Stability Science (SSS): Field Definition\n\nStructural Stability Science is the field that studies invariant structural conditions governing stability and collapse across complex systems.\n\nIt operates through non-interpretive, constraint-based analysis of load, capacity, and boundary conditions.\nThe field is substrate-independent and applies across individual, organizational, and institutional systems.\n\nIt focuses on identifying and modeling the structural relationships between load, capacity, and boundary conditions that determine whether a system remains stable or transitions toward failure.\n\nWithin this field:\n\n- Dimensional Human Field Theory (DHFT) serves as a foundational explanatory system defining these invariant mechanics.\n\n- Dimensional Human Physics (DHP) provides the mathematical formalization of stability conditions.\n\n- Dimensional Self Architecture (DSA) provides the identity mechanics.\n\n- Structural Identification Method (SIM) enables extraction and representation of these mechanics from real-world systems.\n\nSSS is substrate-independent and applies across scales, including individual human systems, organizations, and institutional structures.\n\nThe field is governed and stewarded through the Somatic Rising Institute (SRI), which maintains the integrity of its formal architecture and ensures invariance across applications.\n\nCanonical Stack:\n\n\t\u2022\tField: Structural Stability Science\n\t\u2022\tTheory: Dimensional Human Field Theory (DHFT)\n\t\u2022\tMathematical Spine: Dimensional Human Physics (DHP)\n\t\u2022\tIdentity Architecture: Dimensional Self Architecture (DSA)\n\t\u2022\tMethod: Structural Identification Method (SIM)\n\t\u2022\tGovernance: Somatic Rising Institute (SRI)",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/aeg4d",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "10.17605/OSF.IO/YDMZS",
+      "relatedIdentifierType": "DOI",
+      "relationType": "IsPartOf"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "10.17605/OSF.IO/YDMZS",
+        "relatedItemIdentifierType": "DOI"
+      },
+      "relatedItemType": "Text",
+      "relationType": "IsPartOf",
+      "titles": [
+        {
+          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "ProjectComponent",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [
+    {
+      "rights": "CC-By Attribution 4.0 International",
+      "rightsURI": "https://creativecommons.org/licenses/by/4.0/legalcode"
+    }
+  ],
+  "subjects": [
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "behavioral systems"
+    },
+    {
+      "subject": "boundary permeability"
+    },
+    {
+      "subject": "complex systems"
+    },
+    {
+      "subject": "complex systems theory"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dynamical systems"
+    },
+    {
+      "subject": "formal systems"
+    },
+    {
+      "subject": "interdisciplinary research"
+    },
+    {
+      "subject": "load capacity boundary"
+    },
+    {
+      "subject": "load dynamics"
+    },
+    {
+      "subject": "mathematical modeling"
+    },
+    {
+      "subject": "nonlinear dynamical systems"
+    },
+    {
+      "subject": "stability conditions"
+    },
+    {
+      "subject": "stability geometry"
+    },
+    {
+      "subject": "structural analysis"
+    },
+    {
+      "subject": "structural drift"
+    },
+    {
+      "subject": "structural mechanics"
+    },
+    {
+      "subject": "systems coupling"
+    },
+    {
+      "subject": "systems theory"
+    },
+    {
+      "subject": "theoretical frameworks"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SSS Field Definition: Structural Stability Science (SSS)"
+    }
+  ]
+}

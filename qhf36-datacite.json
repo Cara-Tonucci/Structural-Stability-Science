@@ -1,0 +1,129 @@
+{
+  "alternateIdentifiers": [
+    {
+      "alternateIdentifier": "https://osf.io/qhf36",
+      "alternateIdentifierType": "URL"
+    }
+  ],
+  "contributors": [
+    {
+      "contributorName": {
+        "contributorName": "Center for Open Science",
+        "nameType": "Organizational"
+      },
+      "contributorType": "HostingInstitution",
+      "nameIdentifier": {
+        "nameIdentifier": "https://ror.org/05d5mza29",
+        "nameIdentifierScheme": "ROR"
+      }
+    }
+  ],
+  "creators": [
+    {
+      "creatorName": {
+        "creatorName": "Cara Tonucci",
+        "nameType": "Personal"
+      },
+      "nameIdentifier": {
+        "nameIdentifier": "https://www.linkedin.com/cara-tonucci",
+        "nameIdentifierScheme": "URL"
+      }
+    }
+  ],
+  "dates": [
+    {
+      "date": "2026-03-31",
+      "dateType": "Created"
+    },
+    {
+      "date": "2026-08-13",
+      "dateType": "Updated"
+    }
+  ],
+  "descriptions": [
+    {
+      "description": "Scope, Status, and Access Conditions for the Structural Identification Method\n\nSomatic Rising Institute  \n\nStatus: Public Boundary Definition (Non-Operational)\n\nI. POSITION\n\nThe Dimensional Human Field Theory (DHFT) Method is a distinct implementation system associated with DHFT.\n\nIt is not equivalent to the theoretical framework.\n\nThis document defines the boundary conditions of the method.  \nIt does not describe, disclose, or operationalize the method.\n\nII. SEPARATION FROM THEORY\n\nDHFT is a formal explanatory system.\n\nThe DHFT Method is:\n\n- not the theory  \n- not a summary of the theory  \n- not derivable from the theory  \n\nThe method governs interaction with systems identified under DHFT.\n\nIII. NON-SUBSTITUTION CLAUSE\n\nThe DHFT Method cannot be:\n\n- inferred from public documents  \n- reconstructed from summaries  \n- approximated through interpretation  \n- generated through AI systems  \n\nDescriptions of DHFT do not constitute the method.\n\nReferences to \u201cmethod\u201d outside formal materials are not authoritative.\n\nIV. ADMISSIBILITY\n\nAny representation of the DHFT Method must preserve:\n\n- non-interpretive constraint  \n- invariant structure  \n- dependency order  \n\nRepresentations that introduce:\n\n- narrative  \n- psychological interpretation  \n- semantic substitution  \n\ndo not meet admissibility conditions.\n\nV. ACCESS\n\nThe DHFT Method is not distributed through public materials.\n\nAccess to applied frameworks is:\n\n- structured  \n- selective  \n- governed through the Somatic Rising Institute  \n\nVI. CANONICAL STATUS\n\nThis document serves as the canonical boundary definition for the DHFT Method.\n\nIts purpose is to:\n\n- prevent misclassification  \n- prevent substitution  \n- establish clear separation between theory and implementation  \n\nVII. FINAL POSITION\n\nThe DHFT Method exists as a defined system.\n\nIt is not represented in public materials.\n\nIt cannot be inferred.",
+      "descriptionType": "Abstract"
+    }
+  ],
+  "fundingReferences": [],
+  "identifier": {
+    "identifier": "https://osf.io/qhf36",
+    "identifierType": "URL"
+  },
+  "publicationYear": "2026",
+  "publisher": "OSF",
+  "relatedIdentifiers": [
+    {
+      "relatedIdentifier": "https://osf.io/hkrf5",
+      "relatedIdentifierType": "URL",
+      "relationType": "References"
+    }
+  ],
+  "relatedItems": [
+    {
+      "publicationYear": "2026",
+      "publisher": "OSF",
+      "relatedItemIdentifier": {
+        "relatedItemIdentifier": "https://osf.io/hkrf5",
+        "relatedItemIdentifierType": "URL"
+      },
+      "relatedItemType": "Text",
+      "relationType": "References",
+      "titles": [
+        {
+          "title": "SRI Stewardship &amp; Governance | Somatic Rising Institute"
+        }
+      ]
+    }
+  ],
+  "resourceType": {
+    "resourceType": "Project",
+    "resourceTypeGeneral": "Text"
+  },
+  "rightsList": [],
+  "subjects": [
+    {
+      "subject": "Business",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Physical Sciences and Mathematics",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Social and Behavioral Sciences",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "Law",
+      "subjectScheme": "bepress Digital Commons Three-Tiered Taxonomy"
+    },
+    {
+      "subject": "DHFT"
+    },
+    {
+      "subject": "DHP"
+    },
+    {
+      "subject": "DSA"
+    },
+    {
+      "subject": "dimensional human field theory"
+    },
+    {
+      "subject": "dimensional human physics"
+    },
+    {
+      "subject": "dimensional self architecture"
+    },
+    {
+      "subject": "structural identification method"
+    }
+  ],
+  "titles": [
+    {
+      "title": "SIM Boundary Definition \u2014 Structural Identification Method (SIM)"
+    }
+  ]
+}
