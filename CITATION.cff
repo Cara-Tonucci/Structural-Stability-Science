@@ -1,0 +1,43 @@
+
+cff-version: 1.2.0
+
+message: "For scientific definitions, mathematical relations, and technical findings, cite the applicable originating DOI-bearing Source Records. To reference this GitHub repository, use the repository citation provided here."
+
+authors:
+  - family-names: "Tonucci"
+    given-names: "Cara"
+    orcid: "https://orcid.org/0009-0003-9048-5821"
+    affiliation: "Somatic Rising Institute"
+
+title: "Structural Stability Science (SSS): Scientific Repository and Source Navigation"
+
+abstract: "Secondary scientific repository providing technical reference, preservation, and navigation for Structural Stability Science (SSS), Dimensional Human Field Theory (DHFT), the Structural Identification Method (SIM), and associated originating scientific records. The DOI-bearing Source Records retain scientific source authority."
+
+doi: "10.5281/zenodo.20313823"
+
+repository-code: "https://github.com/Cara-Tonucci/Structural-Stability-Science"
+
+url: "https://github.com/Cara-Tonucci/Structural-Stability-Science/wiki"
+
+keywords:
+  - "Structural Stability Science"
+  - "Dimensional Human Field Theory"
+  - "Structural Identification Method"
+  - "Dimensional Human Physics"
+  - "Dimensional Self Architecture"
+  - "Load"
+  - "Capacity"
+  - "Boundary"
+  - "Scientific Source Records"
+  - "Scientific Governance"
+
+preferred-citation:
+  type: generic
+  authors:
+    - family-names: "Tonucci"
+      given-names: "Cara"
+  title: "Structural Stability Science (SSS): Scientific Repository and Source Navigation"
+  year: 2026
+  doi: "10.5281/zenodo.20313823"
+  url: "https://github.com/Cara-Tonucci/Structural-Stability-Science"
+
