@@ -42,7 +42,7 @@
   ],
   "descriptions": [
     {
-      "description": "Structural Stability Science (SSS) is the field that studies invariant structural conditions governing stability and collapse across complex systems. SSS is not interdisciplinary\u2014it operates as a foundational mechanical science across domains.\n\nDimensional Human Field Theory (DHFT) is a foundational theory within this field.\n\nStructural Stability Science (SSS): Field Definition\n\nStructural Stability Science is the field that studies invariant structural conditions governing stability and collapse across complex systems.\n\nIt operates through non-interpretive, constraint-based analysis of load, capacity, and boundary conditions.\nThe field is substrate-independent and applies across individual, organizational, and institutional systems.\n\nIt focuses on identifying and modeling the structural relationships between load, capacity, and boundary conditions that determine whether a system remains stable or transitions toward failure.\n\nWithin this field:\n\n- Dimensional Human Field Theory (DHFT) serves as a foundational explanatory system defining these invariant mechanics.\n\n- Dimensional Human Physics (DHP) provides the mathematical formalization of stability conditions.\n\n- Dimensional Self Architecture (DSA) provides the identity mechanics.\n\n- Structural Identification Method (SIM) enables extraction and representation of these mechanics from real-world systems.\n\nSSS is substrate-independent and applies across scales, including individual human systems, organizations, and institutional structures.\n\nThe field is governed and stewarded through the Somatic Rising Institute (SRI), which maintains the integrity of its formal architecture and ensures invariance across applications.\n\nCanonical Stack:\n\n\t\u2022\tField: Structural Stability Science\n\t\u2022\tTheory: Dimensional Human Field Theory (DHFT)\n\t\u2022\tMathematical Spine: Dimensional Human Physics (DHP)\n\t\u2022\tIdentity Architecture: Dimensional Self Architecture (DSA)\n\t\u2022\tMethod: Structural Identification Method (SIM)\n\t\u2022\tGovernance: Somatic Rising Institute (SRI)",
+      "description": "Structural Stability Science (SSS) is the scientific field concerned with structural conditions governing stability and failure under Load across admissible system descriptions. Load (L), Capacity (C), and Boundary (B) are invariant structural variables of the foundational SSS/DHFT architecture.\n\nThe Structural Identification Method (SIM) is the originating scientific identification method. Dimensional Human Field Theory (DHFT) is a distinct foundational explanatory theory within SSS. Dimensional Human Physics (DHP) and Dimensional Self Architecture (DSA) are distinct technical spines within the originating architecture. The published Method–Field–Theory Relationship (https://doi.org/10.5281/zenodo.19741205) distinguishes the roles and non-equivalence of SIM, SSS, and DHFT.\n\nSubsequent research development: SSS also serves as the institutional scientific home for an independent mathematical research program whose November 2026 publication lineage includes order preservation under real extension, admissibility and counterexamples, Navier–Stokes investigations, adjoint observation gain, operator analysis, and observability. The mathematical publications define their own systems, assumptions, propositions, and verification status. Their placement within SSS does not establish derivation from DHFT or identify mathematical operators or parameters as DHFT invariant variables. See the Mathematical Research Program directory: https://github.com/Cara-Tonucci/Structural-Stability-Science/wiki/Mathematical-Research-Program .\n\nOriginating DOI-bearing publications remain the primary authority for scientific definitions, mathematical results, and source-specific conditions. This OSF component provides scientific-field orientation and navigation; it does not replace individual publications or change their publication dates, scope, or rights. Somatic Rising Institute (SRI) provides institutional scientific stewardship and research access.",
       "descriptionType": "Abstract"
     }
   ],
@@ -72,7 +72,7 @@
       "relationType": "IsPartOf",
       "titles": [
         {
-          "title": "Dimensional Human Field Theory (DHFT) \u2014 Formal System Repository"
+          "title": "Dimensional Human Field Theory (DHFT) — Formal System Repository"
         }
       ]
     }
@@ -88,6 +88,12 @@
     }
   ],
   "subjects": [
+    {
+      "subject": "Structural Stability Science"
+    },
+    {
+      "subject": "Structural Identification Method"
+    },
     {
       "subject": "DHFT"
     },
@@ -120,9 +126,6 @@
     },
     {
       "subject": "formal systems"
-    },
-    {
-      "subject": "interdisciplinary research"
     },
     {
       "subject": "load capacity boundary"
@@ -158,7 +161,28 @@
       "subject": "systems theory"
     },
     {
-      "subject": "theoretical frameworks"
+      "subject": "independent mathematical research"
+    },
+    {
+      "subject": "order preservation"
+    },
+    {
+      "subject": "mathematical admissibility"
+    },
+    {
+      "subject": "Navier-Stokes equations"
+    },
+    {
+      "subject": "operator theory"
+    },
+    {
+      "subject": "adjoint observation gain"
+    },
+    {
+      "subject": "observability"
+    },
+    {
+      "subject": "scientific source provenance"
     }
   ],
   "titles": [
