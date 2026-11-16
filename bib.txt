@@ -1,262 +1,377 @@
-@article{sss_core_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Structural Stability Science (SSS): Field Conditions and Definition},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19740956},
-  url       = {https://doi.org},
-  note      = {Canonical Field Condition Framework},
-  keywords  = {Structural Stability Science, Field Architecture, Systemic Perturbations}
+% SSS bibliography - supplemented from Tonucci (2026), Direct Analytical Extensions of Full-Adjoint Observation Gain, pp. 17-20.
+% Original entries preserved in scope and citation keys; generic resolver URLs repaired.
+% Original institutional-author fields retained pending metadata verification.
+% Two original DOI variants (19741921, 19741335) retained; source cites 19741922, 19741336. Verify concept/version status.
+
+% === EXISTING BIBLIOGRAPHY (source text supplied in conversation) ===
+@misc{sss_core_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Structural Stability Science (SSS): Field Conditions and Definition}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19740956},
+  url = {https://doi.org/10.5281/zenodo.19740956}
 }
 
-
-@protocol{canonical_entry_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Canonical Entry Protocol},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19741286},
-  url       = {https://doi.org},
-  note      = {Foundational Entry Protocol},
-  keywords  = {Canonical Protocol, SSS, Core Metadata}
+@misc{canonical_entry_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Canonical Entry Protocol}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19741286},
+  url = {https://doi.org/10.5281/zenodo.19741286}
 }
 
-
-@article{dhft_core_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19075948},
-  url       = {https://doi.org},
-  note      = {Core Theoretical Framework},
-  keywords  = {Dimensional Human Field Theory, DHFT, Mathematical Physics}
+@misc{dhft_core_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19075948},
+  url = {https://doi.org/10.5281/zenodo.19075948}
 }
 
-
-@article{stability_dynamics_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Stability Field Dynamics in Dimensional Human Physics},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19076116},
-  url       = {https://doi.org},
-  note      = {Dynamics and Mechanics Layer},
-  keywords  = {Dimensional Human Physics, Field Dynamics, Stability}
+@misc{stability_dynamics_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Stability Field Dynamics in Dimensional Human Physics}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19076116},
+  url = {https://doi.org/10.5281/zenodo.19076116}
 }
 
-
-@article{minimal_geometry_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Minimal Stability Geometry of Dimensional Human Physics},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19076075},
-  url       = {https://doi.org},
-  note      = {Geometric Invariant Modeling},
-  keywords  = {Minimal Geometry, Topology, Invariant Frameworks}
+@misc{minimal_geometry_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Minimal Stability Geometry of Dimensional Human Physics}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19076075},
+  url = {https://doi.org/10.5281/zenodo.19076075}
 }
 
-
-@article{falsifiability_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Falsifiability Conditions in Dimensional Human Physics},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19093631},
-  url       = {https://doi.org},
-  note      = {Scientific Validation Rules},
-  keywords  = {Falsifiability, Scientific Method, Validation Baselines}
+@misc{falsifiability_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Falsifiability Conditions in Dimensional Human Physics}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19093631},
+  url = {https://doi.org/10.5281/zenodo.19093631}
 }
 
-
-@article{symbols_dhft_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Symbols in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19151935},
-  url       = {https://doi.org},
-  note      = {Taxonomic Symbolic Lexicon},
-  keywords  = {Symbolic Logic, Formal Notation, DHFT Vocabularies}
+@misc{symbols_dhft_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Symbols in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19151935},
+  url = {https://doi.org/10.5281/zenodo.19151935}
 }
 
-
-@article{definitions_dhft_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Canonical Definitions in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19151307},
-  url       = {https://doi.org},
-  note      = {Foundational Field Definitions},
-  keywords  = {Canonical Definitions, Structural Lexicon, Terminology}
+@misc{definitions_dhft_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Canonical Definitions in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19151307},
+  url = {https://doi.org/10.5281/zenodo.19151307}
 }
 
-
-@article{scope_limits_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Scope, Limits, and Conditions of Application in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19096723},
-  url       = {https://doi.org},
-  note      = {Theoretical Application Boundary},
-  keywords  = {Application Limits, Boundary Conditions, System Parameters}
+@misc{scope_limits_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Scope, Limits, and Conditions of Application in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19096723},
+  url = {https://doi.org/10.5281/zenodo.19096723}
 }
 
-
-@article{dhp_spine_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {DHP Spine - Mechanics Layer: Jurisdiction, Authorization, and Derived Authorization in DHFT},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19239242},
-  url       = {https://doi.org},
-  note      = {Jurisdictional Authorization Mechanics},
-  keywords  = {Mechanics Layer, Authorization, Jurisdiction, DHP Spine}
+@misc{dhp_spine_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{DHP Spine - Mechanics Layer: Jurisdiction, Authorization, and Derived Authorization in DHFT}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19239242},
+  url = {https://doi.org/10.5281/zenodo.19239242}
 }
 
-
-@article{dsa_spine_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {DSA Spine — Identity, Sovereignty, and Persistence Mechanics in DHFT},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19261744},
-  url       = {https://doi.org},
-  note      = {Sovereignty and Identity Engineering},
-  keywords  = {Identity Architecture, Sovereignty, Persistence Mechanics}
+@misc{dsa_spine_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{DSA Spine - Identity, Sovereignty, and Persistence Mechanics in DHFT}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19261744},
+  url = {https://doi.org/10.5281/zenodo.19261744}
 }
 
-
-@manual{structural_id_en_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Structural Identification Method},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19337749},
-  url       = {https://doi.org},
-  note      = {Primary Methodological Framework (English)},
-  keywords  = {Methodology, Structural Identification, Applied Systems}
+@misc{structural_id_en_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Structural Identification Method}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19337749},
+  url = {https://doi.org/10.5281/zenodo.19337749}
 }
 
-
-@article{dhft_es_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Teor{\'i}a de Campo Humano Dimensional (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19355510},
-  url       = {https://doi.org},
-  note      = {Spanish Translation of DHFT Core},
-  keywords  = {Spanish Edition, Theoretical Physics, Translation Node}
+@misc{dhft_es_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Teoria de Campo Humano Dimensional (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19355510},
+  url = {https://doi.org/10.5281/zenodo.19355510}
 }
 
-
-@manual{structural_id_es_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {M{\'e}todo de Identificaci{\'o}n Estructural},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19337996},
-  url       = {https://doi.org},
-  note      = {Spanish Translation of Structural Identification Method},
-  keywords  = {Metodologia, Identificacion Estructural, Spanish Translation}
+@misc{structural_id_es_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Metodo de Identificacion Estructural}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19337996},
+  url = {https://doi.org/10.5281/zenodo.19337996}
 }
 
-
-@article{minimal_constraint_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Minimal Constraint Model},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19571715},
-  url       = {https://doi.org},
-  note      = {Operational Optimization Architecture},
-  keywords  = {Minimal Constraint, Model Resilience, System Mechanics}
+@misc{minimal_constraint_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Minimal Constraint Model}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19571715},
+  url = {https://doi.org/10.5281/zenodo.19571715}
 }
 
-
-@article{attribution_conditions_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Attribution Conditions in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19741921},
-  url       = {https://doi.org},
-  note      = {Provenance and Governance Rules},
-  keywords  = {Attribution, Governance Framework, IP Mapping}
+@misc{attribution_conditions_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Attribution Conditions in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19741921},
+  url = {https://doi.org/10.5281/zenodo.19741921}
 }
 
-
-@article{theory_boundary_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Application–Theory Boundary in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19865090},
-  url       = {https://doi.org},
-  note      = {Stewardship Isolation Boundary},
-  keywords  = {Theory Boundary, Application Constraint, Field Integrity}
+@misc{theory_boundary_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Application-Theory Boundary in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19865090},
+  url = {https://doi.org/10.5281/zenodo.19865090}
 }
 
-
-@article{language_equivalence_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Language Instantiation and Cross-Language Equivalence in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19741733},
-  url       = {https://doi.org},
-  note      = {Multilingual Lexicon Mapping},
-  keywords  = {Language Equivalence, Multi-Language Nodes, Cross-Mapping}
+@misc{language_equivalence_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Language Instantiation and Cross-Language Equivalence in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19741733},
+  url = {https://doi.org/10.5281/zenodo.19741733}
 }
 
-
-@techreport{atwu_application_2026,
-  author      = {{All The Way Up Namaste LLC}},
-  title       = {All The Way Up (ATWU): Application Under Constraint of Dimensional Human Field Theory (DHFT)},
-  institution = {Zenodo Repository},
-  year        = {2026},
-  doi         = {10.5281/zenodo.19742656},
-  url         = {https://doi.org},
-  note        = {Downstream Operational Application Surface},
-  keywords    = {Operational Surface, Constrained Application, Downstream Deployment}
+@misc{atwu_application_2026,
+  author = {{All The Way Up Namaste LLC}},
+  title = {{All The Way Up (ATWU): Application Under Constraint of Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19742656},
+  url = {https://doi.org/10.5281/zenodo.19742656}
 }
 
-
-@article{boundary_of_use_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Boundary of Use in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19741335},
-  url       = {https://doi.org},
-  note      = {Operational Authorization Scope},
-  keywords  = {Boundary of Use, Access Management, Field Compliance}
+@misc{boundary_of_use_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Boundary of Use in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19741335},
+  url = {https://doi.org/10.5281/zenodo.19741335}
 }
 
-
-@article{authority_drift_2026,
-  author    = {{Somatic Rising Institute}},
-  title     = {Authority Drift and Enforcement Conditions in Dimensional Human Field Theory (DHFT)},
-  journal   = {Zenodo Repository},
-  year      = {2026},
-  doi       = {10.5281/zenodo.19741446},
-  url       = {https://doi.org},
-  note      = {Enforcement and Deviance Containment},
-  keywords  = {Authority Drift, System Stability, Structural Enforcement}
+@misc{authority_drift_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Authority Drift and Enforcement Conditions in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19741446},
+  url = {https://doi.org/10.5281/zenodo.19741446}
 }
 
+@misc{sri_definition_2026,
+  author = {{Somatic Rising Institute}},
+  title = {{Institutional Definition: Somatic Rising Institute (SRI) in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Original bibliography entry; metadata not independently verified},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19742455},
+  url = {https://doi.org/10.5281/zenodo.19742455}
+}
 
-@institution{sri_definition_2026,
-  author      = {{Somatic Rising Institute}},
-  title       = {Institutional Definition: Somatic Rising Institute (SRI) in Dimensional Human Field Theory (DHFT)},
-  institution = {Zenodo Repository},
-  year        = {2026},
-  doi         = {10.5281/zenodo.19742455},
-  url         = {https://doi.org},
-  note        = {Institutional Sovereignty Definition},
-  keywords    = {Institutional Definition, Stewardship Authority, Custodial Node}
+% === INDEPENDENT MATHEMATICAL RESEARCH: FROM ATTACHED NOTE ===
+@misc{order_preservation_2026,
+  author = {Tonucci, Cara},
+  title = {{Order Preservation Under Real Extension: Admissibility Conditions, Counterexamples, and the Distinction Between Iteration and Input Limits}},
+  year = {2026},
+  note = {November 5, 2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.23985122},
+  url = {https://doi.org/10.5281/zenodo.23985122}
+}
+
+@misc{structural_identification_extension_2026,
+  author = {Tonucci, Cara},
+  title = {{Structural Identification and the Preservation of Relations Under Extension}},
+  year = {2026},
+  note = {November 5, 2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.23985887},
+  url = {https://doi.org/10.5281/zenodo.23985887}
+}
+
+@misc{restricted_full_adjoint_gain_2026,
+  author = {Tonucci, Cara},
+  title = {{Restricted Full-Adjoint Gain Bound for a Fixed Fourier-Galerkin Navier-Stokes Background}},
+  year = {2026},
+  note = {November 8, 2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.24056481},
+  url = {https://doi.org/10.5281/zenodo.24056481}
+}
+
+@misc{background_uniform_gain_2026,
+  author = {Tonucci, Cara},
+  title = {{Background-Class-Uniform Full-Adjoint Observation Gain for Navier-Stokes Evolution}},
+  year = {2026},
+  note = {November 10, 2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.24117509},
+  url = {https://doi.org/10.5281/zenodo.24117509}
+}
+
+@misc{adjoint_gain_theory_2026,
+  author = {Tonucci, Cara},
+  title = {{Adjoint Gain Theory: Structural Identification and Mathematical Architecture}},
+  year = {2026},
+  note = {November 10, 2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.24117919},
+  url = {https://doi.org/10.5281/zenodo.24117919}
+}
+
+@misc{prodi_serrin_gain_2026,
+  author = {Tonucci, Cara},
+  title = {{Critical Prodi-Serrin Class Extension of Full-Adjoint Observation Gain}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.24139872},
+  url = {https://doi.org/10.5281/zenodo.24139872}
+}
+
+@misc{direct_analytical_extensions_2026,
+  author = {Tonucci, Cara},
+  title = {{Direct Analytical Extensions of Full-Adjoint Observation Gain}},
+  year = {2026},
+  note = {November 11, 2026},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.24140118},
+  url = {https://doi.org/10.5281/zenodo.24140118}
+}
+
+% === ADDITIONAL SSS / DHFT SOURCES CITED IN ATTACHED NOTE ===
+@misc{method_field_theory_2026,
+  author = {Tonucci, Cara},
+  title = {{Method-Field-Theory Relationship in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19741205},
+  url = {https://doi.org/10.5281/zenodo.19741205}
+}
+
+@misc{governing_inequality_2026,
+  author = {Tonucci, Cara},
+  title = {{Governing Inequality of System Stability in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19742027},
+  url = {https://doi.org/10.5281/zenodo.19742027}
+}
+
+@misc{load_dynamics_2026,
+  author = {Tonucci, Cara},
+  title = {{Load Dynamics: Minimal Equations and Stability Conditions in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19571925},
+  url = {https://doi.org/10.5281/zenodo.19571925}
+}
+
+@misc{admissibility_dhft_2026,
+  author = {Tonucci, Cara},
+  title = {{Admissibility Conditions: Valid System Description in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19572188},
+  url = {https://doi.org/10.5281/zenodo.19572188}
+}
+
+@misc{causal_structure_2026,
+  author = {Tonucci, Cara},
+  title = {{Causal Structure: Load, Capacity, and Boundary in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19572054},
+  url = {https://doi.org/10.5281/zenodo.19572054}
+}
+
+@misc{layer_separation_2026,
+  author = {Tonucci, Cara},
+  title = {{Layer Separation in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19573555},
+  url = {https://doi.org/10.5281/zenodo.19573555}
+}
+
+@misc{structural_measurement_2026,
+  author = {Tonucci, Cara},
+  title = {{Structural Measurement of System Conditions in Dimensional Human Field Theory (DHFT)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.19922412},
+  url = {https://doi.org/10.5281/zenodo.19922412}
+}
+
+@misc{spanish_parallel_2026,
+  author = {Tonucci, Cara},
+  title = {{Spanish-Language Parallel Instantiation in Structural Stability Science (SSS)}},
+  year = {2026},
+  note = {Cited in uploaded mathematical technical note},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.20432151},
+  url = {https://doi.org/10.5281/zenodo.20432151}
 }
